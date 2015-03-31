@@ -19,7 +19,7 @@ Installing:
 3. $ npm i
 
 
-Running a webpage score test:
+Running a page speed score test:
 
 1. Update the appconfig.json file to reflect host, paths, strategy, and threshold
 
