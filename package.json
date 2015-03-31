@@ -9,7 +9,6 @@
   },
   "author": "Wesley Carlan",
   "dependencies": {
-    "casperjs": "^1.1.0-beta3",
     "fs": "0.0.2",
     "grunt": "^0.4.5",
     "grunt-pagespeed": "^0.4.1",
