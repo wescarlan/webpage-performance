@@ -25,22 +25,26 @@ $ npm i
 
 Running a webpage score test:
 
-Update the appconfig.json file to reflect host, paths, strategy, and threshold
+  Update the appconfig.json file to reflect host, paths, strategy, and threshold
 
-$ npm run speedtest
+  $ npm run speedtest
 
-Information on your webpage speed tests are output on the command line
+  Information on your webpage speed tests are output on the command line
+
+
+
+
 
 
 
 Running an external resource check:
 
-Update the appconfig.json file to reflect host
+  Update the appconfig.json file to reflect host
 
-$ npm run resources
+  $ npm run resources
 
-If the script is successful, it will output "done"
+  If the script is successful, it will output "done"
 
-Otherwise, try running the test again
+  Otherwise, try running the test again
 
-Data on the external resources used by the host website can be found in a json file contained in webpage-performance/reports/externalResources.json
+  Data on the external resources used by the host website can be found in a json file contained in webpage-performance/reports/externalResources.json
