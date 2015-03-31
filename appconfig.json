@@ -1,0 +1,8 @@
+{
+	"host": "http://cnn.com",
+	"paths": [
+		"/index2.html"
+	],
+	"strategy": "mobile",
+	"threshold": 20
+}
